@@ -6,3 +6,15 @@
   width: 100%;
   height: 36vh;
 }
+
+.intro-text > h1 {
+  font-size: 2.5rem;
+  margin: 1rem 0;
+  text-align: center;
+}
+
+.intro-text > p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+  text-align: center;
+}
